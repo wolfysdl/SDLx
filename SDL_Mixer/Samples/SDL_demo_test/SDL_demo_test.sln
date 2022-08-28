@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL_demo_test", "SDL_demo_test.vcproj", "{7B30040F-BFB8-45F3-81E2-DECF43835E24}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Profile = Profile
+		Profile_FastCap = Profile_FastCap
+		Release = Release
+		Release_LTCG = Release_LTCG
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Debug.ActiveCfg = Debug|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Debug.Build.0 = Debug|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Profile.ActiveCfg = Profile|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Profile.Build.0 = Profile|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Profile_FastCap.ActiveCfg = Profile_FastCap|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Profile_FastCap.Build.0 = Profile_FastCap|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Release.ActiveCfg = Release|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Release.Build.0 = Release|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Release_LTCG.ActiveCfg = Release_LTCG|Xbox
+		{7B30040F-BFB8-45F3-81E2-DECF43835E24}.Release_LTCG.Build.0 = Release_LTCG|Xbox
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

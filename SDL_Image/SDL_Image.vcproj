@@ -121,7 +121,7 @@
 				Optimization="3"
 				OmitFramePointers="TRUE"
 				OptimizeForProcessor="2"
-				AdditionalIncludeDirectories=".;..\SDL\include;..\zlib;libJPEG"
+				AdditionalIncludeDirectories=".;..\SDL\include;..\libs\zlib;libJPEG"
 				PreprocessorDefinitions="NDEBUG;_XBOX;_LIB;WIN32;_WINDOWS;LOAD_BMP;LOAD_GIF;LOAD_LBM;LOAD_PCX;LOAD_PNM;LOAD_XPM;LOAD_JPG;LOAD_PNG;LOAD_TGA;NO_GETENV"
 				StringPooling="TRUE"
 				RuntimeLibrary="0"

@@ -20,7 +20,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="0"
 				OptimizeForProcessor="2"
-				AdditionalIncludeDirectories="..\SDL\include;..\freetype-2.4.8\include"
+				AdditionalIncludeDirectories="..\SDL\include;..libs\freetype-2.4.8\include"
 				PreprocessorDefinitions="_DEBUG;_XBOX;_LIB"
 				MinimalRebuild="TRUE"
 				BasicRuntimeChecks="3"
@@ -125,7 +125,7 @@
 				InlineFunctionExpansion="2"
 				OmitFramePointers="TRUE"
 				OptimizeForProcessor="2"
-				AdditionalIncludeDirectories="..\SDL\include;..\freetype-2.4.8\include"
+				AdditionalIncludeDirectories="..\SDL\include;&quot;..\libs\freetype-2.4.8\include&quot;"
 				PreprocessorDefinitions="NDEBUG;_XBOX;_LIB"
 				StringPooling="TRUE"
 				RuntimeLibrary="0"
@@ -142,7 +142,7 @@
 				Name="VCLibrarianTool"
 				AdditionalDependencies="freetype-2.4.8.lib"
 				OutputFile="$(OutDir)/$(ProjectName).lib"
-				AdditionalLibraryDirectories="..\freetype-2.4.8\release"/>
+				AdditionalLibraryDirectories="&quot;..\libs\freetype-2.4.8\release&quot;"/>
 			<Tool
 				Name="VCPostBuildEventTool"/>
 			<Tool
