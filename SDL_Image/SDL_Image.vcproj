@@ -237,9 +237,6 @@
 			<File
 				RelativePath=".\SDL_image.h">
 			</File>
-			<File
-				RelativePath=".\showimage.c">
-			</File>
 			<Filter
 				Name="libJPEG"
 				Filter="">

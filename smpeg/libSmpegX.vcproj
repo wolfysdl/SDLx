@@ -141,7 +141,7 @@
 				Name="VCCustomBuildTool"/>
 			<Tool
 				Name="VCLibrarianTool"
-				AdditionalDependencies="libSDLx.lib"
+				AdditionalDependencies="SDLx.lib"
 				OutputFile="$(OutDir)/$(ProjectName).lib"
 				AdditionalLibraryDirectories="..\Release"/>
 			<Tool
